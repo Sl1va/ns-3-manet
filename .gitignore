@@ -50,3 +50,7 @@ vcpkg/
 
 # Ignore local cache used by e.g. clangd
 .cache/
+
+animation.xml
+.vscode
+a.out
